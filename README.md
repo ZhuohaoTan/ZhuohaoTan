@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Engineering internship
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Software developement
-- 📫 How to reach me: tan2002224@gmail.com
 
 <!---
 ZhuohaoTan/ZhuohaoTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
